@@ -3,7 +3,9 @@ In this repository, I have provided solutions to various problems along with bri
 
 ## Contents
 1. Algorithm explanations: Each solution includes a brief explanation of the algorithm implemented.
-2. Additional tests: Apart from running the solutions from the main method, additional test cases have been provided to demonstrate the functionality and accuracy of the solutions.
+
+2. Additional tests: Tests have been included within the solution files themselves as comments to demonstrate the functionality and accuracy of the solutions.
+
 3. Problem 6: Web Scraping and Multithreading
    - For Question 6, web scraping techniques have been used to extract data from websites. Multithreading has been employed to download data concurrently, improving efficiency.
 
