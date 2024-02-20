@@ -65,7 +65,7 @@ public class Q4B {
         Collections.sort(closeValues);
         System.out.print("The closest values are : ");
         for (double value : closeValues) {
-            System.out.print((int) value + "  ");
+            System.out.print((int) value + "  ");  //Output: 3  4
         }
     }
 }
