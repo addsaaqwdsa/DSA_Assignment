@@ -1,0 +1,15 @@
+Username: User2
+Content: This is sports posts 1 by user2
+
+Username: User2
+Content: This is sports posts 2 by user2
+
+Username: User3
+Content: user3 sports post1
+
+Username: User3
+Content: user3 sports post2
+
+Username: User1
+Content: sports1
+

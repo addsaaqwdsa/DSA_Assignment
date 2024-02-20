@@ -1,0 +1,6 @@
+Username: User2
+Content: This is entertainment posts 1 by user2
+
+Username: User3
+Content: user3 entertainment post1
+
